@@ -1,0 +1,8 @@
+body{font-family:Arial,sans-serif;margin:0;background:#f4f6f8;color:#1f2937}
+.container{max-width:960px;margin:0 auto;padding:16px}
+.topbar{background:#0f172a;color:#fff}.topbar a{color:#fff;margin-right:12px;text-decoration:none}
+.logo{font-weight:700}.card{background:#fff;border:1px solid #d1d5db;padding:12px;margin:12px 0;border-radius:6px}
+label{display:block;margin:8px 0}input,textarea,select,button{width:100%;padding:8px;box-sizing:border-box}
+button,.btn{background:#2563eb;color:#fff;border:none;padding:8px 12px;border-radius:4px;display:inline-block;width:auto;text-decoration:none;cursor:pointer}
+.footer{background:#e5e7eb;margin-top:24px}.error{color:#b91c1c}.ok{color:#047857}
+@media (max-width:600px){.container{padding:10px}}
